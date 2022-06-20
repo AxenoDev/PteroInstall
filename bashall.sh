@@ -5,4 +5,3 @@ sleep 3
 rm -rf script.sh
 wget https://raw.githubusercontent.com/AxenoDev/PteroInstall/main/script.sh
 bash script.sh
-
