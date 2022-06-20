@@ -7,7 +7,7 @@ echo "PTERO  0.7.18"
 
 echo "DAEMON + PANEL"
 echo "=============================="
-
+echo "By Axeno"
 echo "=============================="
 
 echo "STEP 1" 
