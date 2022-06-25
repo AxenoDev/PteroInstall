@@ -17,13 +17,13 @@ bash <(curl -s https://raw.githubusercontent.com/AxenoDev/PteroInstall/main/bash
 ```
 ### Panel Version
 
-| Operating System  | Version | nginx support        | PHP Version |
+| OS Système        | Version | nginx support        | Version PHP |
 | ----------------- | ------- | -------------------- | ----------- |
 | Ubuntu            | 14.04   | :red_circle:         |             |
-|                   | 16.04   | :red_circle: *       |             |
+|                   | 16.04   | :white_check_mark:   |             |
 |                   | 18.04   | :white_check_mark:   | 7.4         |
 |                   | 20.04   | :white_check_mark:   | 7.4         |
-| Debian            | 8       | :red_circle: *       |             |
+| Debian            | 8       | :red_circle:         |             |
 |                   | 9       | :white_check_mark:   | 7.4         |
 |                   | 10      | :white_check_mark:   | 7.4         |
 | CentOS            | 6       | :red_circle:         |             |
@@ -32,15 +32,15 @@ bash <(curl -s https://raw.githubusercontent.com/AxenoDev/PteroInstall/main/bash
 
 ### Wings Version
 
-| Operating System  | Version | Supported            |
-| ----------------- | ------- | -------------------- |
+| OS Système        | Version | nginx support        | 
+| ----------------- | ------- | -------------------- | 
 | Ubuntu            | 14.04   | :red_circle:         |
-|                   | 16.04   | :red_circle: *       |
-|                   | 18.04   | :white_check_mark:   |
+|                   | 16.04   | :white_check_mark:   |
+|                   | 18.04   | :white_check_mark:   | 
 |                   | 20.04   | :white_check_mark:   |
 | Debian            | 8       | :red_circle:         |
-|                   | 9       | :white_check_mark:   |
-|                   | 10      | :white_check_mark:   |
-| CentOS            | 6       | :red_circle:         |
-|                   | 7       | :white_check_mark:   |
-|                   | 8       | :white_check_mark:   |
+|                   | 9       | :white_check_mark:   | 
+|                   | 10      | :white_check_mark:   | 
+| CentOS            | 6       | :red_circle:         | 
+|                   | 7       | :white_check_mark:   | 
+|                   | 8       | :white_check_mark:   | 
